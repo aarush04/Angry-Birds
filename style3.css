@@ -1,0 +1,76 @@
+body{
+    background-color: burlywood;
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: crimson;
+    overflow: hidden;
+}
+li{
+    float: right;
+    padding-right: 30px;
+    font-size: 35px;
+    font-weight: 10000;
+}
+.maintitle{
+    float: left;
+    padding: 14px 16px;
+    font-weight: 10000;
+    cursor: crosshair;
+    font-family: "Luckiest Guy";
+    font-size: 50px;
+}
+li a{
+    color: black;
+    text-decoration: none;
+    display: block;
+    font-size: 25px;
+    font-family: "Acme";
+}
+li a:hover{
+    color: white;
+    background-color: black;
+}
+.FirstSection{
+    background-image: url("https://wallsdesk.com/wp-content/uploads/2016/11/Angry-Birds-HD.jpg");
+    height: 100vh;
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.dream{
+    float: right;
+    padding-top: 150px;
+    padding-right: 50px;
+}
+.dream img{
+    width: 250px;
+    height: 170px
+}
+.SecondSection{
+    background-image: url("https://www.blurayauthority.com/wp-content/uploads/2019/11/angrybirds2hd_pub.jpg");
+    height: 100vh;
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ThirdSection{
+    background-image: url("https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/02/03135724/AB2_Clansbanners_1920x750_BG.jpg");
+    height: 100vh;
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.birds2 img{
+    widows: 800px;
+    height: 700px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 20px;
+}
